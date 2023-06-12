@@ -10,9 +10,6 @@ class PokemonViewHolder(val binding: ItemPokemonBinding) : ViewHolder(binding.ro
     ) {
         binding.apply {
             tvName.text = model.title
-            Glide.with(binding.root.context)
-                .load(model.picture)
-                .into(ivImage)
         }
 
     }
