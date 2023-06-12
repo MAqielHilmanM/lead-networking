@@ -1,4 +1,4 @@
-package com.lead.networking.pokemon
+package com.lead.networking.ui.pokemon
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment
@@ -8,7 +8,7 @@ import android.view.ViewGroup
 import androidx.recyclerview.widget.LinearLayoutManager
 import com.lead.networking.R
 import com.lead.networking.databinding.FragmentPokemonBinding
-import com.lead.networking.pokemon.adapter.PokemonAdapter
+import com.lead.networking.ui.pokemon.adapter.PokemonAdapter
 
 class PokemonFragment : Fragment() {
 

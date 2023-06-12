@@ -1,4 +1,4 @@
-package com.lead.networking.pokemon.adapter
+package com.lead.networking.ui.pokemon.adapter
 
 data class PokemonItemModel(
     val id: String,
