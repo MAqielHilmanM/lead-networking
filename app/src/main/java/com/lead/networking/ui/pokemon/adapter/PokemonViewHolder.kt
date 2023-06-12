@@ -1,4 +1,4 @@
-package com.lead.networking.pokemon.adapter
+package com.lead.networking.ui.pokemon.adapter
 
 import androidx.recyclerview.widget.RecyclerView.ViewHolder
 import com.bumptech.glide.Glide
