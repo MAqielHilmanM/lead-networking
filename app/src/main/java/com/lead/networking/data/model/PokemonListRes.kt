@@ -19,3 +19,4 @@ data class PokemonListRes(
         val url: String? = null,
     )
 }
+
